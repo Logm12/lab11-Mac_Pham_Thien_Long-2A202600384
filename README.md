@@ -1,7 +1,9 @@
 # Individual Report
 
 **Student Name:** Mạc Phạm Thiên Long  
+
 **ID:** 2A202600384 
+
 **Course:** AI20k - Day 11: Guardrails, HITL & Responsible AI
 
 ---
