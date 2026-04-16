@@ -1,4 +1,4 @@
-# VinBank AI Security & HITL Analysis Report
+# Individual Report
 
 **Student Name:** Mạc Phạm Thiên Long  
 **ID:** 2A202600384 
